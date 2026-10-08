@@ -6,3 +6,4 @@ Daily DSA and LeetCode problem-solving journey in Java .
 |-----|-------|----------------|
 | 1 | Arrays | Finding second largest and second smallest elements without sorting |
 | 1 | Arrays | Finding third largest element |
+| 2 | Arrays |Check whether arry is sorted or not |
